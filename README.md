@@ -15,7 +15,7 @@ Tweets have been preprocessed to remove any stop words (e.g., the, a, is), urls,
 
 I will create a classifier for three categories, 1) race positive, 2) race negative, and 3) race neutral. One algorithm that is performing well for this is the Multinomial Naive Bayes (Bag of Words) Model. This is a probabilistic model  based on the labels in the training data (i.e., it classifies based on the probability of a certain label given the feature data). Probabilistic models allow for a nonlinear decision boundary and therefore more than two categories are possible. Two other classification algorithms will also be tested, Boosted Trees (gradient boosted decision trees) and Random Forests. These also have more fluid decision boundaries and have proven well for classification. In fact, a comparison of classification algorithms showed that Bayes classification was outperformed by Boosted Trees and Random Forests (Caruana & Niculescu-Mizil, 2006). However, Naive Bayes models are proving themselves to work very well in sentiment analysis, and in particular are being used successfully to analyze Tweets (Smetanin, 2018). 
 
-Deliverables: Code: data visualization, exploratory data analysis, machine learning algorithms, predicted and classified Tweets. Report on the project. Presentation.
+**Deliverables:** Code: data visualization, exploratory data analysis, machine learning algorithms, predicted and classified Tweets. Report on the project. Presentation.
 
 
 **References**
