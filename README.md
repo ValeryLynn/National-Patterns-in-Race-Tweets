@@ -1,4 +1,4 @@
-# Nationa Pattern in Race Tweets
+# National Pattern in Race Tweets
 
 **Capstone 2 Proposal: Valery Lynn**
 
