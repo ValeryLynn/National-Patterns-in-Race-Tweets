@@ -1,5 +1,4 @@
-# National-Patterns-in-Race-Tweets
-Capstone 2 project for Springboard: Data Science Career Track
+# Nationa Pattern in Race Tweets
 
 **Capstone 2 Proposal: Valery Lynn**
 
